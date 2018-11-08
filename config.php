@@ -46,7 +46,7 @@ define( 'DB_USER', 'u216026909_simu' );
 
 // Senha do DB
 
-define( 'DB_PASSWORD', 'simulados' );
+define( 'DB_PASSWORD', 'pwd' );
 
 
 
